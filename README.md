@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Andrés Sepúlveda from Bogotá, Colombia<br><br>- 🔭 I’m studying systems engineering<br>- 📚 I'm currently learning in Escuela Colombiana De Ingenieria Julio Garavito<br>- ⚡ In my free time I like to program, play videogames and practice tennis </p>
+<p align="left">I'm Andrés Sepúlveda from Bogotá, Colombia.<br><br>- 🔭 I’m studying systems engineering<br>- 📚 I'm currently learning in Escuela Colombiana De Ingenieria Julio Garavito<br>- ⚡ In my free time I like to program, play videogames and practice tennis </p>
 
 ###
 
@@ -121,14 +121,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaco0bo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###<!--
+
+###
+
+<h3 align="left">💻   Work :</h3>
 
 - 🔭 I’m currently unemployed
 - 🌱 I’m currently learning Systems Engineering
 - 👯 I’m looking to collaborate on a project, helping with testing and also open to learn anything
 - 🤔 I’m looking for help with coding and machine learning
 - 📫 How to reach me:
-    - [Linkedin](https://www.linkedin.com/in/andr%C3%A9s-jacobo-sep%C3%BAlveda-s%C3%A1nchez-908430251/)  
+    - [Linkedin](https://www.linkedin.com/in/andr%C3%A9s-jacobo-sep%C3%BAlveda-s%C3%A1nchez-908430251/) 📌
     - [Email](jacobosepul12@gmail.com) 📧 
 - 😄 Pronouns: He/Him
 
