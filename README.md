@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jacobo and I'm a Systems Enginer from Colombia.</h2>
+<h2 align="left">Hi 👋! My name is Jacobo and I'm a Systems Enginer Student from Colombia.</h2>
 
 ###
 
