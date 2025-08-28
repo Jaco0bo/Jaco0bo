@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/bo91I.gif"  />
+
 
 ###
 
@@ -64,13 +64,14 @@
   </a>
   <a href="mailto:jacobosepul12@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>  
+  </a> 
 </div>
 
 ###
 
 <br clear="both">
 <div align="center">
+  <img align="center" height="150" src=https://media1.tenor.com/m/yQ6QlIyJf-EAAAAC/cats-computer.gif  />
   <img src="https://raw.githubusercontent.com/Jaco0bo/Jaco0bo/output/snake.svg" alt="Snake animation" />
 </div>
 
